@@ -1,6 +1,15 @@
 # Motivational Seminars
 
+#Bullet point
+1. “We become what we think about” 
 
+A reminder that positive thinking helps you frame your mindset and change your life, spoken by the author of, “Essence of Success.”
+
+2. “People who are crazy enough to think they can change the world, are the ones who do.”- Rob Siltanen
+
+Rob is a leading creative marketer responsible for some of the most effective and iconic advertising campaigns of the past 30 years.
+
+3. “Optimism is the one quality more associated with success and happiness than any other.”- 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
