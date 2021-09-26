@@ -13,7 +13,7 @@ const Person = (props) => {
            <img className='img' src={img} alt="" />
             <h4>Name: {name}</h4> 
              <h5>Age: {age}</h5>
-             <h6>Born: {born}</h6>
+             <h5>Born: {born}</h5>
              <h5>Country: {country}</h5>
             <h5>Fee: ${speakingFee}</h5>
                 <button onClick ={()=>props.handleAddToCart(props.person)}> {element }  Add Person  </button>

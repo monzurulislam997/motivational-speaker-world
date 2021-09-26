@@ -22,7 +22,10 @@ const Speaker = () => {
     return (  <div className ="speaker-container">
          <div className='person-container'>
          {
-              persons.map(person=> <Person person={person} handleAddToCart={handleAddToCart} ></Person>)
+              persons.map(person=> <Person
+                 person={person}
+                 key ={person.name} 
+                 handleAddToCart={handleAddToCart} ></Person>)
           }
           
            </div>
