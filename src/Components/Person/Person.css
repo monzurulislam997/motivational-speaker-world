@@ -1,0 +1,26 @@
+     .person-details{
+        border: 2px solid lightgray;
+        margin:10px;
+       padding: 10px;
+        border-radius: 10px;
+        background-color: white;
+        width: 200px;
+        height: 395px;
+        line-height:-15px;
+    } 
+    .img{
+        width:140px;
+         height:140px;
+        margin-left: 35px;
+        border-radius: 50%;
+    }
+    button {
+        background-color:#ff4747;
+        color: white;
+        margin-left:42px;
+        margin-top:-5px;
+        margin-bottom: 5px;
+        border:1px solid gray ;
+        border-radius:5px;
+        padding:5px 15px 5px 15px;
+    }

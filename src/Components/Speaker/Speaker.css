@@ -1,0 +1,21 @@
+.speaker-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    /* background-color: #bedfe2ce; */
+     background-color:#F8F0DF;
+}
+
+.person-container {
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    border:1px solid lightgray;
+}
+
+.order-container {
+    border: 2px solid tomato;
+    padding: 15px;
+    height: 320px;
+    box-shadow: 5px 10px 8px 1px #888888;
+    margin-left: 10px;
+    background-color: #C9E4C5;
+}

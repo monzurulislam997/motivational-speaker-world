@@ -1,0 +1,11 @@
+[   {"name":"Tony Robbins","age":50,"born":1971,"country":"Australia",      "Occupation":"Evangelist","speakingFee":50000,"img":"./images/Tony-Robbins.jpg"},
+   {"name":"Nick Vujicic","age":38,"born":1982,"country":"Australia",      "Occupation":"Evangelist","speakingFee":50000,"img":"./images/Nick vujicle.jpg"},
+    {"name":"Les Brown","age":61,"born":1960,"country":"Australia","occupation":"Evangelist","speakingFee":82000,"img":"./images/Les-Brown.jpg"},
+    {"name":"Jim Rohn","age":82,"born":1930,"country":"Washington","occupation":"Evangelist","speakingFee":50000,"img":"./images/jim-rohn.jpg"},
+    {"name":" Arnold Schwarz","age":74,"born":1947,"country":"Austria","occupation":"Army","speakingFee":26000,"img":"./images/Arnold-Schwarzenegger.jpg"},
+    {"name":"Abdullah Sayed","age":82,"born":1939,"country":"Bangladesh","occupation":"Teacher","speakingFee":60000,"img":"./images/Abdullah sayed.jpg"},
+    {"name":"Zig Ziglar","age":72,"born":1926,"country":"Alabama","occupation":"Salesman","speakingFee":90000,"img":"./images/Zig-Ziglar.jpg"},
+    {"name":"Brian Tracy","age":77,"born":1944,"country":"Canada","occupation":"Business men","speakingFee":80000,"img":"./images/Brian-Tracy.jpg"},
+    {"name":"Ayman sadiq","age":29,"born":1992,"country":"Bangladesh","occupation":"Educationalist","speakingFee":50000,"img":"./images/ayman-sadiq.jpg"},
+    {"name":" Robin Sharma","age":57,"born":1964,"country":"Nepal","occupation":"writer","speakingFee":950000,"img":"./images/Robin-Sharma.jpg"},
+    {"name":"Wayne Dyer","age":61,"born":1940,"country":"Detroit","occupation":"Speaker","speakingFee":44000,"img":"./images/wayne-dyer.jpg"}]

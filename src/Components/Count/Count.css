@@ -1,0 +1,15 @@
+ .clicked-img{
+    width: 200px;
+    height: 150px;
+}  
+.person-number{
+   font-size: 22px;
+    color:green;
+}
+.person-name{
+    color:tomato;
+}
+.fee {
+    color: #116530;
+    font-size: 18px;
+}
