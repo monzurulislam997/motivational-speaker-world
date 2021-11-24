@@ -19,7 +19,8 @@ const Speaker = () => {
                         setCount(newCount)
         }
     
-    return (  <div className ="speaker-container">
+    return (  
+    <div className ="speaker-container">
          <div className='person-container'>
          {
               persons.map(person=> <Person
